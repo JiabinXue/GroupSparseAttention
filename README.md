@@ -7,7 +7,6 @@ The proving process of GroupSparseAttention
 
 <center>
     <img src="https://github.com/JiabinXue/GroupSparseAttention/blob/master/figure/GroupSparse.png?raw=true">
-    <br>
     <div>GroupSparsemax</div>
 </center>
 
