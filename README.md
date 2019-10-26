@@ -5,7 +5,7 @@ The proving process of GroupSparseAttention
 ----
 
 <div style=”align: center”>
-    <img src="https://github.com/JiabinXue/GroupSparseAttention/blob/master/figure/GroupSparse.png?raw=true">
+    ![GitHub Logo](https://github.com/JiabinXue/GroupSparseAttention/blob/master/figure/GroupSparse.png?raw=true "Octocat.jpg")
 </div>
 
 
