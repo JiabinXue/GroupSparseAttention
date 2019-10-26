@@ -5,6 +5,13 @@ The proving process of GroupSparseAttention
 ----
 
 
-![Softmax](https://img-blog.csdnimg.cn/20190107185452783.png)![Sparsemax](https://img-blog.csdnimg.cn/20190107185452783.png)![GroupSparsemax](https://img-blog.csdnimg.cn/20190107185452783.png)
+<center>
+    ! [text ] ( figure/Softmax.png)
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">这里输入题注</div>
+</center>
 
 
