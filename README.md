@@ -4,14 +4,7 @@ GroupSparseAttention
 The proving process of GroupSparseAttention
 ----
 
-<div style=”align: center”>
-    ![GitHub Logo](./figure/GroupSparse.png "Octocat.jpg")
-</div>
-
-
-<div style=”align: center”>
-    abc
-</div>
+<center>文字居中</center>
 
 
 <center>
