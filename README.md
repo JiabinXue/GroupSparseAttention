@@ -9,7 +9,9 @@ The proving process of GroupSparseAttention
 </div>
 
 
-<center>GroupSparsemax</center>
+<div style=”align: center”>
+    abc
+</div>
 
 
 <center>
