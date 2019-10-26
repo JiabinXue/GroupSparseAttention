@@ -3,7 +3,7 @@
 GroupSparseAttention
 ====  
 
-The proving process of GroupSparseAttention
+The compare of various transformations
 ----
 
 
